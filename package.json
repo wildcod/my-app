@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@sentry/browser": "^5.15.2",
+    "@zeit/next-source-maps": "^0.0.3",
     "next": "9.3.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
